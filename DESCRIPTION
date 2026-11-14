@@ -7,7 +7,7 @@ Description: Gets the career matches of a tennis player from
     tennisabstract.com and plots the age gap with each opponent.
 License: MIT + file LICENSE
 Encoding: UTF-8
-Imports: ggplot2
+Imports: ggplot2, jsonlite
 Suggests: testthat (>= 3.0.0)
 Config/testthat/edition: 3
 RoxygenNote: 7.3.2
