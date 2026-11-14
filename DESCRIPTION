@@ -2,7 +2,7 @@ Package: tennisages
 Type: Package
 Title: Plot the Age Gap Between Tennis Players and Their Opponents
 Version: 0.1.0
-Authors@R: person("Shiyi", "Yuan", role = c("aut", "cre"))
+Authors@R: person("Shiyi", "Yuan", email = "yuanshiyi0923@gmail.com", role = c("aut", "cre"))
 Description: Gets the career matches of a tennis player from
     tennisabstract.com and plots the age gap with each opponent.
 License: MIT + file LICENSE
